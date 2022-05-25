@@ -1,0 +1,10 @@
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\bin\Debug\fase2_CT.exe.config
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\bin\Debug\fase2_CT.exe
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\bin\Debug\fase2_CT.pdb
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.Form1.resources
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.Properties.Resources.resources
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.csproj.GenerateResource.cache
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.exe
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.pdb
+C:\Users\MICRO\source\repos\fase2_CT\fase2_CT\obj\Debug\fase2_CT.csproj.AssemblyReference.cache
